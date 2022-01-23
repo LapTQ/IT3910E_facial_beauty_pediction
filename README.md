@@ -1,1 +1,3 @@
-# facial_beauty_perception
+# Facial Beauty Perception
+
+Dataset: SCUT-FBP5500.
